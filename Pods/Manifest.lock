@@ -1,0 +1,16 @@
+PODS:
+  - IQKeyboardManager (6.5.17)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 904d013844bbae0abe073f015487bfebe5476335
+
+PODFILE CHECKSUM: 79edd899e9949ef9fdfbb1e3ebe9927b2ab1793a
+
+COCOAPODS: 1.15.2
